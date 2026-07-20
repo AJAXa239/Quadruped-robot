@@ -1,4 +1,4 @@
-# Quadruped_robot
+## Quadruped_robot
  Arduino_powered quadrupedal robot controlled wireless via a custom dual PS2 Arduino controller using a Bluetooth module! 📡  
 
 ## Images
